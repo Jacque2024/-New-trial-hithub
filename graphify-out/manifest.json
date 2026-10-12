@@ -1,0 +1,86 @@
+{
+  ".github/dependabot.yml": {
+    "mtime": 1791842683.8888965,
+    "seen": 1791842820.881989,
+    "ast_hash": "dd1abc651db350875e6a2d11fe18f4a1",
+    "semantic_hash": "dd1abc651db350875e6a2d11fe18f4a1"
+  },
+  ".github/steps/-step.txt": {
+    "mtime": 1791842683.8943188,
+    "seen": 1791842820.8819954,
+    "ast_hash": "b026324c6904b2a9cb4b88d6d61c81d1",
+    "semantic_hash": "b026324c6904b2a9cb4b88d6d61c81d1"
+  },
+  ".github/steps/0-welcome.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8819985,
+    "ast_hash": "7882576ec8351c0ab80cea96a8d55d2e",
+    "semantic_hash": "7882576ec8351c0ab80cea96a8d55d2e"
+  },
+  ".github/steps/1-copilot-extension.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820002,
+    "ast_hash": "8be3a92192a8d9822c9a3daa6589f80c",
+    "semantic_hash": "8be3a92192a8d9822c9a3daa6589f80c"
+  },
+  ".github/steps/2-skills-javascript.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820014,
+    "ast_hash": "ed271f61142160d38546a08cb3ff97ff",
+    "semantic_hash": "ed271f61142160d38546a08cb3ff97ff"
+  },
+  ".github/steps/3-copilot-hub.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820026,
+    "ast_hash": "bfb8bd62f980f40e3a0fc26d3890cd7a",
+    "semantic_hash": "bfb8bd62f980f40e3a0fc26d3890cd7a"
+  },
+  ".github/steps/4-copilot-comment.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820043,
+    "ast_hash": "e655193725da93f0df4eb539fd40a203",
+    "semantic_hash": "e655193725da93f0df4eb539fd40a203"
+  },
+  ".github/steps/X-finish.md": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820052,
+    "ast_hash": "69368ff2b2692977debb63aeb4259c8b",
+    "semantic_hash": "69368ff2b2692977debb63aeb4259c8b"
+  },
+  ".github/workflows/0-welcome.yml": {
+    "mtime": 1791842683.894391,
+    "seen": 1791842820.8820062,
+    "ast_hash": "ab28bc5ebd350aef8bb834c5e786d290",
+    "semantic_hash": "ab28bc5ebd350aef8bb834c5e786d290"
+  },
+  ".github/workflows/1-copilot-extension.yml": {
+    "mtime": 1791842683.8949838,
+    "seen": 1791842820.8820074,
+    "ast_hash": "ed038222d3731f3a8f649252cd5ec87d",
+    "semantic_hash": "ed038222d3731f3a8f649252cd5ec87d"
+  },
+  ".github/workflows/2-skills-javascript.yml": {
+    "mtime": 1791842683.8949838,
+    "seen": 1791842820.8820083,
+    "ast_hash": "731095bc76fe34a020aca3342cb1682d",
+    "semantic_hash": "731095bc76fe34a020aca3342cb1682d"
+  },
+  ".github/workflows/3-copilot-hub.yml": {
+    "mtime": 1791842683.8949838,
+    "seen": 1791842820.8820105,
+    "ast_hash": "9efecd8c8d19924750d7b8aefd9067c1",
+    "semantic_hash": "9efecd8c8d19924750d7b8aefd9067c1"
+  },
+  ".github/workflows/4-copilot-comment.yml": {
+    "mtime": 1791842683.8949838,
+    "seen": 1791842820.8820114,
+    "ast_hash": "f0b87757219d5e25d2eae7544eec7a06",
+    "semantic_hash": "f0b87757219d5e25d2eae7544eec7a06"
+  },
+  "README.md": {
+    "mtime": 1791842683.8949838,
+    "seen": 1791842820.8820124,
+    "ast_hash": "9b81742d3fec820f93a2a3513b91cade",
+    "semantic_hash": "9b81742d3fec820f93a2a3513b91cade"
+  }
+}
